@@ -47,6 +47,10 @@
 }
 
 .square > .square-text-wrapper h1 {
-    color: #cea135;
+    color: #5939B9;
+
 }
 
+.square > .square-text-wrapper h1 a:hover {
+color: #00FFF5;
+}

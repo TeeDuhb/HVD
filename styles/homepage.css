@@ -2,6 +2,7 @@
 .hero-section {
     background-image: url(../images/background/Header2.jpg);
     /* youtu.be/hhXvh0Sgozw */
+    background-color: #E93B96;
     padding: 100px;
     height: 300px;
     background-attachment: fixed;
@@ -11,16 +12,16 @@
 }
 
 .hero-section > .top-heading {
-    background-color: #522f4b;
-    color: #31C6EC;
+    background-color: #5939B9;
+    color: #00FFF5;
     width: 290px;
     border-radius: 2px;
     padding: 1px 20px;
 }
 
 .hero-section > .bottom-heading {
-    background-color: #cea135;
-    color: #522f4b;
+    background-color: #00FFF5;
+    color: #5939B9;
     padding: 1px 20px;
     margin-top: 15px;
     width: 107px;
@@ -30,10 +31,11 @@
 /* Features section styles */
 .features-section {
     height: 400px;
-    background-image: url(../images/background/fries-multiply-bg.jpg);
-    background-color: #cea135;
-    border-top: 10px solid white;
-    color: #522f4b;
+    background-image: url(../images/background/linear-flat-abstract-lines-pattern/5372145.jpg);
+    background-color: #00FFF5;
+    border-top: 4px groove #E93B96;
+    border-bottom: 5px ridge #E93B96;
+    color: #5939B9;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -57,7 +59,7 @@
 }
 
 .features-section > .columns-wrapper > .column:hover {
-    border-bottom: 5px solid #522f4b;
+    border-bottom: 5px solid #5939B9;
 }
 
 .features-section > .columns-wrapper > .column :nth-child(1) {
