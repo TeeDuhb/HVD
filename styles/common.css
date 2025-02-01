@@ -2,6 +2,7 @@
 body {
     margin: 0px;
     font-family: 'Roboto', sans-serif;
+    background-image: radial-gradient(#00FFF5, #5939B9 , #E93B96);
 }
 
 h1, h2, h3, h4, h5, h6 {
