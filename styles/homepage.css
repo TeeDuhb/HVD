@@ -1,8 +1,9 @@
 /* Hero section styles */
 .hero-section {
     background-image: url(../images/background/Header2.jpg);
-    /* youtu.be/hhXvh0Sgozw */
     background-color: #E93B96;
+    border-top: 4px groove #E93B96;
+    border-bottom: 5px ridge #E93B96;
     padding: 100px;
     height: 300px;
     background-attachment: fixed;
@@ -33,8 +34,6 @@
     height: 400px;
     background-image: url(../images/background/linear-flat-abstract-lines-pattern/5372145.jpg);
     background-color: #00FFF5;
-    border-top: 4px groove #E93B96;
-    border-bottom: 5px ridge #E93B96;
     color: #5939B9;
     display: flex;
     justify-content: center;
