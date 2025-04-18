@@ -104,14 +104,9 @@ color: #00FFF5;
 }
 
 .navigation-wrapper > .right-column > .address-wrapper a {
-    color: #E93B96;
     text-decoration: none;
     font-size: 0.9em;
     transition: 0.5s;
-}
-
-.navigation-wrapper > .right-column > .address-wrapper a:hover {
-    color: #00FFF5;
 }
 
 .navigation-wrapper > .right-column > .contact-icon {
